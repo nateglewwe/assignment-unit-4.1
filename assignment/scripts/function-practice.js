@@ -73,7 +73,7 @@ let result = false;
 }
 console.log(find(3, [1,2,3,4,5]));
 
-
+//---NOT SURE WHY THE LAST AUTOMATED TEST ISN'T HAPPY EVEN THOUGH I DID ALL THE QUESTIONS?---
 
 
 // ----------------------
